@@ -1,0 +1,39 @@
+.pages label{
+    padding-right: .5em;
+    font-weight: bold;
+}
+
+.pages div{
+    padding-bottom: .5em;
+}
+
+label {
+    color: blueviolet;
+}
+
+.ui.green.button {
+    color: black;
+}
+
+.left {
+    color: black;
+}
+
+.language > .text {
+    color: black;
+}
+
+a[href$="gogs\.io\/"]{
+    color: black;
+}
+.version{
+    color: black;
+}
+
+.ui.left {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+  }
