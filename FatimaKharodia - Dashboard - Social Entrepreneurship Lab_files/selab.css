@@ -56,3 +56,6 @@ footer {
   .ui.secondary.menu .active.item {
     color: darkorchid;
 }
+body{
+    margin: 0px auto; 
+}
