@@ -8,7 +8,7 @@
 }
 
 label {
-    color: blueviolet;
+    color: purple;
 }
 
 .ui.green.button {
@@ -37,3 +37,5 @@ a[href$="gogs\.io\/"]{
     width: 100%;
     text-align: center;
   }
+  
+ 
