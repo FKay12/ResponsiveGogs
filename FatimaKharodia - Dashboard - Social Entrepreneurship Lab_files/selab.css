@@ -39,4 +39,10 @@ a[href$="gogs\.io\/"]{
     text-align: center;
   }
   
+  h1 {
+      color: purple;
+  }
  
+  .ui.menu .item {
+      color: purple;
+  }
