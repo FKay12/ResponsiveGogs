@@ -33,7 +33,7 @@ h5,
 .ui.menu,
 .ui.input input,
 .ui.button:not(.label) {
-  color: #197474;
+  color: purple;
 }
 
 #file-content h1,
@@ -59,7 +59,7 @@ code.raw {
 }
 
 .following.bar .top.menu a.item.brand {
-  color: #197474 !important;
+  color:red !important;
 }
 
 .following.bar .top.menu a.item:hover,
@@ -73,11 +73,11 @@ code.raw {
 }
 
 .following.bar .top.menu .menu {
-  color: #197474 !important;
+  color: red !important;
 }
 
 .following.bar .head.link.item {
-  color: #197474 !important;
+  color: red !important;
 }
 
 .home {
@@ -136,8 +136,8 @@ footer {
 }
 
 .ui.attached.header {
-  background: #1c1c1c !important;
-  color: #197474 !important;
+  background: purple !important;
+  color: yellow !important;
   border: none !important;
 }
 
@@ -354,11 +354,11 @@ footer {
 }
 
 .ui.header .sub.header {
-  color: #197474 !important;
+  color: purple !important;
 }
 
 .ui.header {
-  color: #197474 !important;
+  color: purple !important;
 }
 
 .ui.form .inline.field > label,
@@ -371,7 +371,7 @@ footer {
 
 .secondary {
   background-color: transparent !important;
-  color: #197474 !important;
+  color: #ff0202 !important;
 }
 
 .secondary .item {

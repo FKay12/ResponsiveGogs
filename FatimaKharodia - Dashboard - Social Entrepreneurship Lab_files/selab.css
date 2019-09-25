@@ -9,7 +9,7 @@
 }
 
 label {
-    color: purple;
+    color: goldenrod;
 }
 
 .ui.green.button {
@@ -18,18 +18,18 @@ label {
 }
 
 .left {
-    color: black;
+    color: yellow;
 }
 
 .language > .text {
-    color: purple;
+    color: yellow;
 }
 
 a[href$="gogs\.io\/"]{
-    color: purple;
+    color: yellow;
 }
 .version {
-    color: purple;
+    color: yellow;
 }
 
 .ui.left {
@@ -37,7 +37,7 @@ a[href$="gogs\.io\/"]{
     left: 0;
     bottom: 0;
     width: 100%;
-    color: purple;
+    color: yellow;
     
   }
   
@@ -46,21 +46,31 @@ footer {
   bottom: 0;
   width: 100%;
   height: 2.5rem;
-  color: purple;
+  color: yellow;
  
+}
+.ui.menu .active.item[data-tab="repos"] {
+    color: yellow;
+}
+.ui.menu.three.item .item[data-tab="orgs"] {
+    color: yellow;
+}
+.ui.menu.three.item .item[data-tab="mirrors"] {
+    color: yellow;
+}
+.tab.list[data-tab="repos"] > .top.header.attached:nth-child(1){
+    color: yellow;
+    background: purple;
 }
   
   h1 {
-      color: purple;
+      color: goldenrod;
   }
  
-  .ui.menu .item {
+  h2.ui.header {
       color: purple;
   }
-
-  .ui.secondary.menu .active.item {
-    color: darkorchid;
-}
+  
 body{
     margin: 0px auto; 
 }
